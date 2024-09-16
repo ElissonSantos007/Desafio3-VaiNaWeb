@@ -1,0 +1,249 @@
+* {
+  margin: 15;
+}
+
+body {
+  background-color: #EFEEF3;
+  position: relative;
+  width: 393px;
+  height: 852px;
+  background: #EFEEF3;
+}
+
+#logo1 {
+  position: relative;
+  width: 155.35px;
+  height: 48px;
+  left: 14px;
+  top: 2px;
+  background: url(LOGO.png);
+}
+
+#fundo1 {
+  position: relative;
+  width: 1440px;
+  height: 320px;
+  left: 0px;
+  top: 0px;
+  background: url(image.png);
+}
+
+#lista1 li {
+  position: relative;
+  width: 333px;
+  height: 31px;
+  left: 257px;
+  top: 19px;
+  font-family: "Kodchasan";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 31px;
+  color: #000000;
+}
+
+#linhaDeProdutos1 {
+  position: relative;
+  width: 450px;
+  height: 355px;
+  left: 139px;
+  top: 359px;
+  background: url(image);
+  border-radius: 20px;
+}
+
+#produtos {
+  position: absolute;
+  width: 493px;
+  height: 78px;
+  left: 132px;
+  top: 815px;
+  font-family: "Kodchasan";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 30px;
+  line-height: 39px;
+  color: #000000;
+}
+
+#tituloPrimeiraPagina {
+  position: relative;
+  width: 475px;
+  height: 47px;
+  left: 779px;
+  top: 400px;
+  font-family: "Kodchasan";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 36px;
+  line-height: 47px;
+  /* identical to box height */
+  text-align: center;
+  color: #000000;
+}
+
+#paragrafo1 {
+  position: relative;
+  width: 573px;
+  height: 203px;
+  left: 730px;
+  top: 472px;
+  font-family: "Kodchasan";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 31px;
+  text-align: center;
+  color: #000000;
+}
+
+#shampooLaranja {
+  position: relative;
+  width: 81.26px;
+  height: 200px;
+  left: 698px;
+  top: 762px;
+  background: url(image);
+}
+
+#shampooKit {
+  position: relative;
+  width: 106.71px;
+  height: 200px;
+  left: 889px;
+  top: 762px;
+  background: url(image);
+}
+
+#shampooRoxo {
+  position: relative;
+  width: 63.05px;
+  height: 200px;
+  left: 1105px;
+  top: 762px;
+  background: url(image);
+}
+
+#shampooBranco {
+  position: relative;
+  width: 92.31px;
+  height: 200px;
+  left: 1277px;
+  top: 762px;
+  background: url(image);
+}
+
+#logo2 {
+  position: relative;
+  width: 181px;
+  height: 65px;
+  left: 115px;
+  top: 19px;
+  background: url(LOGO.png);
+}
+
+#lista2 li {
+  position: relative;
+  width: 278px;
+  height: 26px;
+  left: 58px;
+  top: 125px;
+  font-family: "Kodchasan";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 26px;
+  /* identical to box height */
+  color: #000000;
+}
+
+#linhaDeProdutos2 {
+  position: absolute;
+  width: 340px;
+  height: 253px;
+  left: 27px;
+  top: 402px;
+  background: url(image);
+  border-radius: 20px;
+}
+
+#tituloSegundaPagina {
+  position: absolute;
+  width: 320px;
+  height: 31px;
+  left: 32px;
+  top: 694px;
+  font-family: "Kodchasan";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 31px;
+  text-align: center;
+  color: #000000;
+}
+
+#paragrafo2 {
+  position: relative;
+  width: 325px;
+  height: 144px;
+  left: 32px;
+  top: 752px;
+  font-family: "Kodchasan";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 26px;
+  text-align: center;
+  color: #000000;
+}
+
+#paragrafo3 {
+  position: relative;
+  width: 314px;
+  height: 32px;
+  left: 40px;
+  top: 256px;
+  font-family: "Kodchasan";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 26px;
+  text-align: center;
+  color: #000000;
+}
+
+#shampooLaranja2 {
+  position: relative;
+  width: 81.26px;
+  height: 200px;
+  left: 77px;
+  top: 348px;
+  background: url(image);
+}
+
+#shampooKit2 {
+  position: relative;
+  width: 106.71px;
+  height: 200px;
+  left: 212px;
+  top: 348px;
+  background: url(image.png);
+}
+
+#shampooRoxo2 {
+  position: relative;
+  width: 63.05px;
+  height: 200px;
+  left: 86px;
+  top: 595px;
+  background: url(image.png);
+}
+
+#shampooBranco2 {
+  position: relative;
+  width: 92.31px;
+  height: 200px;
+  left: 227px;
+  top: 595px;
+  background: url(image);
+}/*# sourceMappingURL=style.css.map */
